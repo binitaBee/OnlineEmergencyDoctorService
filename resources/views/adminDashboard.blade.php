@@ -30,7 +30,7 @@
                     7. <b>Dr. Nasrin Sultana </b>  <br>
                     <a href="EMODrDetails"><button>Details</button></a> <br>
                     
-                    <a href="{{url('/allDoctors')}}"><button>More </button></a> <br>
+                    <a href="{{url('/allDoctors')}}"><button> More </button></a> <br>
 
                     <h4> Looking for a scheduled appointment? </h4>
                     

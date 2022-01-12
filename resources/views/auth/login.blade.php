@@ -1,8 +1,9 @@
 <x-guest-layout>
     <x-auth-card>
-        <x-slot name="logo">
+    <x-slot name="logo">
             <a href="/">
-                <x-application-logo class="w-20 h-20 fill-current text-gray-500" />
+            <h1> Welcome </h1> </br>
+            <h3> Online Emergency Doctor Service </h3> <br> 
             </a>
         </x-slot>
 
